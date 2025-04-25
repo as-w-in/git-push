@@ -41,4 +41,22 @@ This script automates common Git operations like uploading a new directory to Gi
    - Download the script by cloning or downloading the repository.
 
    ```bash
-   git clone https://github.com/yourusername/yourrepository.git
+   git clone https://github.com/as-w-in/git-push.git
+
+2. **Execute the Script**
+   - Execute the Script by using either pyhton3 or bash
+   - For python
+
+   ```bash
+   python3 git-push.py
+   ```
+   - For bash
+
+   ```bash
+   chmod +x git-push.sh
+   ./git-push.sh
+   ```
+**Now you are inside the git-push follow the instruction from the terminal.**
+
+# Good Luck!!
+
