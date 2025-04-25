@@ -47,11 +47,13 @@ This script automates common Git operations like uploading a new directory to Gi
    - For python
 
    ```bash
+   cd git-push
    python3 git-push.py
    ```
    - For bash
 
    ```bash
+   cd git-push
    chmod +x git-push.sh
    ./git-push.sh
    ```
