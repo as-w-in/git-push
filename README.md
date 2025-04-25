@@ -5,7 +5,7 @@
 ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-green.svg)
 
 
-# git-push: Automation Script
+## git-push: Automation Script
 
 This script automates common Git operations like uploading a new directory to GitHub, uploading/replacing an individual file in an existing Git repository, and working with forked repositories to create pull requests.
 
