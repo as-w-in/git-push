@@ -18,6 +18,7 @@ This will create a copy of this repository in your account.
 Now clone the forked repository to your machine. Go to your GitHub account, open the forked repository, click on the code button, then on SSH tab and then click the _copy to clipboard_ icon.
 
 Open a terminal and run the following git command:
+[firstcontributions](https://github.com/firstcontributions/first-contributions/blob/main/README.md)
 
 ```bash
 git clone "url you just copied"
@@ -115,4 +116,5 @@ git push -u origin your-branch-name
 replacing `your-branch-name` with the name of the branch you created earlier.
 
 ## Acknowledgements
-- Code for this CONTRIBUTING.md were adapted from 
+- Code for this CONTRIBUTING.md were adapted from
+  [firstcontributions](https://github.com/firstcontributions/first-contributions/blob/main/README.md)
