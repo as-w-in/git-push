@@ -116,5 +116,5 @@ git push -u origin your-branch-name
 replacing `your-branch-name` with the name of the branch you created earlier.
 
 ## Acknowledgements
-- Code for this CONTRIBUTING.md were adapted from
+- This `CONTRIBUTING.md ` file was adapted from
   [firstcontributions](https://github.com/firstcontributions/first-contributions/blob/main/README.md)
