@@ -58,8 +58,10 @@ This script automates common Git operations like uploading a new directory to Gi
    ./git-push.sh
    ```
 **Now you are inside the git-push follow the instruction from the terminal.**
+
+# Good Luck!!
+
 ## CONTRIBUTORS
 <kbd>[<img title="" alt="Sorry" src="https://avatars.githubusercontent.com/u/78132762?v=4" width="22">](https://github.com/as-w-in)</kbd>
 
-# Good Luck!!
 
