@@ -1,6 +1,6 @@
 # Contributions
 
-This is a sample step to guide you through the contribution, in case you are confused if you are already familiar with it skip. Follow the steps below.
+This is a sample step to guide you through the contribution in case you are confused ,if you are already familiar with it skip. Follow the steps below.
 
 #### If you don't have git on your machine [install it](https://docs.github.com/en/get-started/quickstart/set-up-git).
 
