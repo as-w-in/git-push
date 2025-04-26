@@ -2,7 +2,7 @@
 
 This project aims to simplify and guide the way beginners make their first contribution. If you are looking to make your first contribution, follow the steps below.
 
-If you're not comfortable with command line, [here are tutorials using GUI tools.](#tutorials-using-other-tools)_
+If you're not comfortable with command line, [here are tutorials using GUI tools.](#tutorials-using-other-tools)
 
 #### If you don't have git on your machine [install it](https://docs.github.com/en/get-started/quickstart/set-up-git).
 
