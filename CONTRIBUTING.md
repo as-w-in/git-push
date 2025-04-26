@@ -1,8 +1,6 @@
 # Contributions
 
-This project aims to simplify and guide the way beginners make their first contribution. If you are looking to make your first contribution, follow the steps below.
-
-If you're not comfortable with command line, [here are tutorials using GUI tools.](#tutorials-using-other-tools)
+This is a sample step to guide you through the contribution, in case you are confused if you are already familiar with it skip. Follow the steps below.
 
 #### If you don't have git on your machine [install it](https://docs.github.com/en/get-started/quickstart/set-up-git).
 
@@ -95,9 +93,26 @@ replacing `your-name` with your name.
 ## Push changes to GitHub
 
 Push your changes using the command `git push`:
+```bash
+git push -u origin your-branch-name
+```
+## Submit your changes for review
+
+If you go to your repository on GitHub, you'll see a `Compare & pull request` button. Click on that button.
+
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
+
+Now submit the pull request.
+
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
+
+Soon I'll be merging all your changes into the main branch of this project. You will get a notification email once the changes have been merged.
 
 ```bash
 git push -u origin your-branch-name
 ```
 
 replacing `your-branch-name` with the name of the branch you created earlier.
+
+## Acknowledgements
+- Code for this CONTRIBUTING.md were adapted from 
