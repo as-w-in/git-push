@@ -1,6 +1,5 @@
 # Contributors
 
-Thanks to these amazing people for their contributions to this project!
 
 | Name | GitHub | Role |
 |------|--------|------|
