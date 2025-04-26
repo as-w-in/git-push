@@ -59,7 +59,7 @@ This script automates common Git operations like uploading a new directory to Gi
    ```
 **Now you are inside the git-push follow the instruction from the terminal.**
 ## CONTRIBUTORS
-<kbd>[<img title="Shqip" alt="Shqip" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/al.svg" width="22">](docs/translations/README.al.md)</kbd>
+<kbd>[<img title="Shqip" alt="Shqip" src="https://avatars.githubusercontent.com/u/78132762?v=4" width="22">](docs/translations/README.al.md)</kbd>
 
 # Good Luck!!
 
